@@ -6,7 +6,7 @@ PS：可以部署在云函数上，利用定时执行来完成一定的推送
 
 Use [Qmsg酱](https://qmsg.zendee.cn/) to complete QQ message push based on python,   
 which can be deployed on cloud functions, 
-and use timing execution to complete certain push
+and use timing execution to complete certain push  
 Here is a usable template for reference~ 
 
 - - -
