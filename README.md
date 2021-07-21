@@ -3,3 +3,12 @@
 
 Use [Qmsg酱](https://qmsg.zendee.cn/) to complete QQ message push based on python, which can be deployed on cloud functions, and use timing execution to complete certain push
 Here is a usable template for reference~ 
+
+- - -
+MsgSend.py为发信模块，即Qmsg的发送模块，调用方法为：
+` MsgSend.postData("QQNumb",content) `
+index.py为主程序以及入口，诶都是一些API，确实没什么技术含量Qwq......
+
+MsgSend.py is the sending module, that is, the sending module of Qmsg. The calling method is:
+`MsgSend.postData("QQNumb",content)`
+index.py is the main program and entry point, eh are some APIs, there is really no technical content Qwq...... 
