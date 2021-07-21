@@ -2,7 +2,7 @@
 
 ***PS***：可以部署在云函数上，利用定时执行来完成一定的推送  
 
-这里提供一个可用的模板，++供参考++~  
+这里提供一个可用的模板，++供参考++ ~  
 
 > Use [Qmsg酱](https://qmsg.zendee.cn/) to complete QQ message push based on python,   
 which can be deployed on cloud functions, 
