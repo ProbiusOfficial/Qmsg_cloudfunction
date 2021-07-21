@@ -80,7 +80,7 @@ def getTimeX():
 def main_handler(event, context):
     content = night() if getTimeX() == 'afterNoon' else morning()
     try:
-        sendSMS.postData("2293808331",content)
+        MsgSend.postData("QQ_Numb",content)
         logger.info("send message success")
     except:
         logger.info("Error: send message fail")
