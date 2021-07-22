@@ -10,7 +10,7 @@ and use timing execution to complete certain push
 Here is a usable template for reference~ 
 
 - - -
-MsgSend.py为发信模块，即Qmsg的发送模块，**调用方法为：  **
+MsgSend.py为发信模块，即Qmsg的发送模块，**调用方法为:**  
 
 ` MsgSend.postData("QQNumb",content) `  
 
